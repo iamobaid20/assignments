@@ -1,1 +1,1 @@
-# AiJava
+This repo contain java logical question 
